@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Vamos a ingresar con el usuario asesor</description>
+   <name>IngresarInformacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bfd69e60-5dc7-41ec-929b-0fb704a4ab02</testCaseGuid>
+</TestCaseEntity>

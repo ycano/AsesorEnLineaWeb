@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-23T13:39:13</date>
+  <millis>1569263953519</millis>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/IniciarSesionAfiliado/IngresoAfiliado</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="name">IngresoAfiliado</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/IniciarSesionAfiliado/IngresoAfiliado</property>
+</record>
+<record>
+  <date>2019-09-23T13:39:13</date>
+  <millis>1569263953537</millis>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = Ycano - P-YCANO.intergrupo.com</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostName">Ycano - P-YCANO.intergrupo.com</property>
+</record>
+<record>
+  <date>2019-09-23T13:39:13</date>
+  <millis>1569263953538</millis>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2019-09-23T13:39:13</date>
+  <millis>1569263953538</millis>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 10.60.67.37</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="hostAddress">10.60.67.37</property>
+</record>
+<record>
+  <date>2019-09-23T13:39:13</date>
+  <millis>1569263953539</millis>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 6.3.3.11</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="katalonVersion">6.3.3.11</property>
+</record>
+<record>
+  <date>2019-09-23T13:39:13</date>
+  <millis>1569263953872</millis>
+  <sequence>5</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/IngresoAfiliado/IngresoDatos</message>
+  <nestedLevel>1</nestedLevel>
+  <property name="name">Test Cases/IngresoAfiliado/IngresoDatos</property>
+  <property name="description"></property>
+  <property name="id">Test Cases/IngresoAfiliado/IngresoDatos</property>
+  <property name="source">C:\\Users\\ycano\\Documents\\ASesorEnLinea\\AsesorEnLinea\\Test Cases\\IngresoAfiliado\\IngresoDatos.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+</record>
+<record>
+  <date>2019-09-23T13:39:13</date>
+  <millis>1569263953896</millis>
+  <sequence>6</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/IngresoAfiliado/IngresoDatos</message>
+  <nestedLevel>0</nestedLevel>
+</record>
+</log>
